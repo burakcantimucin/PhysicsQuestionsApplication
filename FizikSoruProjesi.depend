@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1450287704 source:c:\users\burakcan\documents\algoritma ve programlama i\fiziksoruprojesi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1450287704 source:c:\users\burakcan\documents\algoritma ve programlama i\projeler\fiziksoruprojesi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
